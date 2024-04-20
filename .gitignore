@@ -1,0 +1,4 @@
+*venv*
+*.tar
+*.out
+ip.txt
